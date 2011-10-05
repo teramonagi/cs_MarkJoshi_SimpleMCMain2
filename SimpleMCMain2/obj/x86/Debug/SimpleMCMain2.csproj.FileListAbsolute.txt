@@ -1,0 +1,5 @@
+C:\Users\yana\Documents\Visual Studio 2010\Projects\SimpleMCMain2\SimpleMCMain2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yana\Documents\Visual Studio 2010\Projects\SimpleMCMain2\SimpleMCMain2\bin\Debug\SimpleMCMain2.exe
+C:\Users\yana\Documents\Visual Studio 2010\Projects\SimpleMCMain2\SimpleMCMain2\bin\Debug\SimpleMCMain2.pdb
+C:\Users\yana\Documents\Visual Studio 2010\Projects\SimpleMCMain2\SimpleMCMain2\obj\x86\Debug\SimpleMCMain2.exe
+C:\Users\yana\Documents\Visual Studio 2010\Projects\SimpleMCMain2\SimpleMCMain2\obj\x86\Debug\SimpleMCMain2.pdb
